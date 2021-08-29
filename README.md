@@ -1,5 +1,12 @@
-### Hi there 👋
+![github header](https://user-images.githubusercontent.com/25979741/131256497-f5484937-3aad-45fb-9d7e-21339b479146.png)
 
+<br></br>
+<p align="center">Hey there! I'm a Full Stack developer with a focus on the JavaScript ecosystem. 
+I enjoy tackling problems through both analytical and out-of-the-box, creative solutions.
+More specifically, I get excited about those big picture solutions that might help make our world a better place.
+</p>
+
+<h2 align="center">Tech Stack</h2>
 <!--
 **joleencfh/joleencfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
