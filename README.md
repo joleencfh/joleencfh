@@ -14,9 +14,9 @@ More specifically, I get excited about those big picture solutions that might he
 
 <br></br>
 - 🔭 I’m currently working on polishing and adding features to Freecycler. 
-- 🌱 I’m currently reading this [book](https://github.com/basarat/typescript-book) about TypeScript.
+- 🌱 Also, I'm reading this [book](https://github.com/basarat/typescript-book) about TypeScript.
 - ⚡ If you want to know more, take a look at my [Linkedin](https://www.linkedin.com/in/gconsonni)
-- 📫 Good 'ol email: [kawngc@gmail.com]
+- 📫 Good 'ol email:  [kawngc@gmail.com](kawngc@gmail.com)
 <!--
 **joleencfh/joleencfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
